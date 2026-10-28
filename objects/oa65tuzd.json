@@ -1,0 +1,72 @@
+{
+  "id": "oa65tuzd",
+  "name": "sign",
+  "palette": [
+    {
+      "color": "#a08060",
+      "param": true
+    },
+    {
+      "color": "#7f664d",
+      "param": true
+    }
+  ],
+  "pieces": [
+    {
+      "type": "cylinder",
+      "size": [
+        0.5,
+        4.75,
+        0.5
+      ],
+      "at": [
+        0.01,
+        2.38,
+        0.01
+      ],
+      "turn": [
+        0,
+        0,
+        0
+      ],
+      "color": 0
+    },
+    {
+      "type": "box",
+      "size": [
+        3.25,
+        0.75,
+        0.25
+      ],
+      "at": [
+        0,
+        4.13,
+        0.25
+      ],
+      "turn": [
+        0,
+        0,
+        0
+      ],
+      "color": 1,
+      "texts": [
+        {
+          "name": "text 1",
+          "text": "",
+          "ink": "7",
+          "size": [
+            2.93,
+            0.65
+          ],
+          "turn": 0,
+          "face": "0,0,1",
+          "at": [
+            0.504,
+            0.567
+          ]
+        }
+      ]
+    }
+  ],
+  "collection": "1kjh9wtq"
+}

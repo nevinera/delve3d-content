@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "name": "New world",
+  "continents": [
+    {
+      "key": "main",
+      "name": "Main"
+    }
+  ],
+  "dungeons": []
+}
