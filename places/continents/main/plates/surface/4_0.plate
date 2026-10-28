@@ -1,16 +1,16 @@
-plate 1 4,0 surface
+plate 2 4,0 surface
 palette terrain grass dirt sand rock path shore mud moss tree_oak_2 tree_pine_3 tree_oak_3 tree_oak_1 tree_pine_2 tree_pine_1
 palette biome plains forest rocky swamp
 palette water sea fresh
 clutter 100
-object 0 boulder
-object 1 driftLog
-object 2 log
-object 3 mossyBoulder
-object 4 rock
-object 5 stump
-object 6 thicket
-object 7 uprooted
+object 0 circle:0.45 0.8 boulder
+object 1 capsule:0.07,0.5 0.14 driftLog
+object 2 capsule:0.1,0.5 0.2 log
+object 3 circle:0.45 0.85 mossyBoulder
+object 4 circle:0.45 0.8 rock
+object 5 circle:0.8 1 stump
+object 6 circle:0.7 0.95 thicket
+object 7 capsule:0.045,0.5 0.24 uprooted
 tile 64,2 64
 generator 23 3935363592
 layer height

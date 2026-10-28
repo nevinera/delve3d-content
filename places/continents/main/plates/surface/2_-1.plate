@@ -1,9 +1,9 @@
-plate 1 2,-1 surface
+plate 2 2,-1 surface
 palette terrain grass dirt sand rock path shore mud moss
 palette biome plains forest rocky swamp
 palette water sea fresh
 clutter 100
-object 0 log
+object 0 capsule:0.1,0.5 0.2 log
 tile 46,-4 64
 generator 23 3935363592
 layer height

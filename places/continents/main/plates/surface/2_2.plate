@@ -1,16 +1,16 @@
-plate 1 2,2 surface
+plate 2 2,2 surface
 palette terrain grass dirt sand rock path shore mud moss tree_dead_1 tree_pine_3 tree_dead_2 tree_pine_1 tree_pine_2 tree_dead_3 tree_willow_1 tree_willow_2 tree_willow_3
 palette biome plains forest rocky swamp
 palette water sea fresh
 clutter 100
-object 0 deadStump
-object 1 hollowStump
-object 2 hummock
-object 3 rock
-object 4 rootTangle
-object 5 rottingLog
-object 6 rubble
-object 7 spire
+object 0 circle:0.8 1 deadStump
+object 1 circle:0.8 1 hollowStump
+object 2 circle:1.1 1 hummock
+object 3 circle:0.45 0.8 rock
+object 4 circle:0.55 0.7 rootTangle
+object 5 capsule:0.1,0.5 0.2 rottingLog
+object 6 circle:0.5 0.35 rubble
+object 7 circle:0.15 1 spire
 tile 32,32 64
 generator 23 3935363592
 layer height
